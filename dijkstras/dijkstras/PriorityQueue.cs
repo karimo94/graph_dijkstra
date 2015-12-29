@@ -134,6 +134,7 @@ namespace dijkstras
                     siftDown(0);
                 }
             }
+            arr[count] = null;
             return nObj.data;
         }
         public void siftDown(int nodeIndex)
