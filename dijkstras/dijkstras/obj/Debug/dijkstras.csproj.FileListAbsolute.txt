@@ -1,0 +1,6 @@
+c:\users\karim123-pc\documents\visual studio 2012\Projects\dijkstras\dijkstras\bin\Debug\dijkstras.exe.config
+C:\Users\KARIM123-PC\Documents\Visual Studio 2012\Projects\dijkstras\dijkstras\bin\Debug\dijkstras.exe
+C:\Users\KARIM123-PC\Documents\Visual Studio 2012\Projects\dijkstras\dijkstras\bin\Debug\dijkstras.pdb
+C:\Users\KARIM123-PC\Documents\Visual Studio 2012\Projects\dijkstras\dijkstras\obj\Debug\dijkstras.csprojResolveAssemblyReference.cache
+C:\Users\KARIM123-PC\Documents\Visual Studio 2012\Projects\dijkstras\dijkstras\obj\Debug\dijkstras.exe
+C:\Users\KARIM123-PC\Documents\Visual Studio 2012\Projects\dijkstras\dijkstras\obj\Debug\dijkstras.pdb
